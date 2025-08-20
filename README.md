@@ -247,9 +247,6 @@ interface Doctor {
 - **Husky**: Pre-commit hooks for quality
 - **CI/CD**: Automated testing and deployment
 
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Development Setup
 ```bash
@@ -285,18 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Healthcare Community** - For feedback and suggestions
 - **Open Source Contributors** - For making this possible
 
-## 📞 **Support & Contact**
-
-- **Documentation**: [docs.unityhealthsync.com](https://docs.unityhealthsync.com)
-- **Support**: [support@unityhealthsync.com](mailto:support@unityhealthsync.com)
-- **Sales**: [sales@unityhealthsync.com](mailto:sales@unityhealthsync.com)
-- **GitHub Issues**: [Report a bug](https://github.com/yourusername/unity-health-sync/issues)
-
----
-
-## 🌟 **Special Thanks**
-
-To all the healthcare professionals who inspired this project and continue to provide exceptional care to patients worldwide. This system is built with you in mind, to make your work more efficient and effective.
 
 **Remember**: Every line of code in this application is designed to help save lives and improve patient care. Thank you for choosing Unity Health Sync! 🏥✨
 
